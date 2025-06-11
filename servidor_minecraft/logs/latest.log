@@ -1901,3 +1901,45 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [21:03:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.arrow.hit' to moltgames]
 [21:03:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.arrow.hit' to moltgames]
 [21:03:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.arrow.hit' to moltgames]
+[21:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Teleported moltgames to Guiso_de_Posho]
+[21:11:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> :0
+[21:11:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.arrow.hit' to moltgames]
+[21:11:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.arrow.hit' to moltgames]
+[21:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.arrow.hit' to moltgames]
+[21:12:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> hermano tengo 2 tipos de cobre:b
+[21:12:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.arrow.hit' to moltgames]
+[21:12:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> aea
+[21:13:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Teleported moltgames to -2459.5, 63.5, -716.5]
+[21:15:53] [Server thread/WARN] [FML]: Quark loaded a new chunk [-137, 91] in dimension 0 (overworld) while populating chunk [-137, 90], causing cascading worldgen lag.
+[21:15:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:15:53] [Server thread/WARN] [FML]: Quark loaded a new chunk [-138, 91] in dimension 0 (overworld) while populating chunk [-137, 90], causing cascading worldgen lag.
+[21:15:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:16:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.arrow.hit' to moltgames]
+[21:16:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.arrow.hit' to moltgames]
+[21:16:38] [Server thread/WARN] [FML]: Quark loaded a new chunk [-133, 91] in dimension 0 (overworld) while populating chunk [-134, 92], causing cascading worldgen lag.
+[21:16:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:16:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho was slain by Deviantive Form
+[21:17:33] [Server thread/WARN] [FML]: Quark loaded a new chunk [-126, 93] in dimension 0 (overworld) while populating chunk [-127, 93], causing cascading worldgen lag.
+[21:17:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:17:50] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-119, 94] in dimension 0 (overworld) while populating chunk [-120, 94], causing cascading worldgen lag.
+[21:17:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:18:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> el the lost cities sigue dentro no?
+[21:18:40] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[21:18:46] [Server thread/WARN] [FML]: Quark loaded a new chunk [-121, 108] in dimension 0 (overworld) while populating chunk [-120, 108], causing cascading worldgen lag.
+[21:18:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:18:53] [Server thread/WARN] [FML]: Quark loaded a new chunk [-107, 110] in dimension 0 (overworld) while populating chunk [-108, 110], causing cascading worldgen lag.
+[21:18:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:20:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> si
+[21:20:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> despues lo saco
+[21:20:36] [Server thread/WARN] [FML]: Quark loaded a new chunk [-111, 120] in dimension 0 (overworld) while populating chunk [-112, 120], causing cascading worldgen lag.
+[21:20:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:20:36] [Server thread/WARN] [FML]: Quark loaded a new chunk [-111, 121] in dimension 0 (overworld) while populating chunk [-112, 120], causing cascading worldgen lag.
+[21:20:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:24:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> tmr, debo sacar el lost cities y meter 2 mods mas
+[21:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.arrow.hit' to moltgames]
+[21:24:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> me avisas
+[21:24:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> lo hago ahorita o mas tarde?
+[21:25:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> dame 15 minutos y lo haces
+[21:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> vas
+[21:25:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: moltgames lost connection: Disconnected
+[21:25:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames left the game

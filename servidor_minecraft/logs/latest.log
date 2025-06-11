@@ -1943,3 +1943,16 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [21:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> vas
 [21:25:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: moltgames lost connection: Disconnected
 [21:25:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames left the game
+[21:32:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho was slain by Adapted Manducater
+[21:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] ya pasaron 15 min
+[21:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:35:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:35:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:35:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:35:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:35:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[21:35:25] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:35:25] [Server thread/INFO] [FML]: Unloading dimension 2
+[21:35:25] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[21:35:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:35:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
